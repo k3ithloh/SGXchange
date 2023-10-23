@@ -1,8 +1,9 @@
-# WAD2_project
-SGXchange 
+# SGXChange
 Change the way you exchange
 
 Find us live at https://sgxchange.vercel.app/
+
+Watch our demo [here!](https://youtu.be/3Ztzdd-hXP8?si=0KTQDUD38DtlRxB0&t=347)
 
 
 # To navigate github,
